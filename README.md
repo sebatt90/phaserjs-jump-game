@@ -1,2 +1,4 @@
-# phaserjs-jump-game
-A game I made using Phaser 3.
+# PhaserJS Jump Game
+A game I made using Phaser 3 using Express as the web server.
+
+I'm making this in order to become fluent in writing JavaScript.
